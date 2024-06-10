@@ -1,0 +1,3 @@
+registerLink.addEventListener('click', () => {
+    wrapper;
+});
